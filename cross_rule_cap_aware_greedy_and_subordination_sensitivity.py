@@ -1,4 +1,4 @@
-# cross_rule_cap_aware_greedy_and_subordination_sensitivity.py
+# cross_rule_cap_aware_greedy_and_subordination_sensitivity
 import bisect
 import itertools
 import json
